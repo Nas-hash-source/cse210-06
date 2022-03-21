@@ -4,27 +4,26 @@ This is a game about a frog who wants to cross the river, but the frog cannot to
 # Instructions:
 NB: our tasks should be due this wednesday, but at least this Saturday
 The reason for this is that we are still going to check everything and also a vote between classmates will be done next week for the best game between us.
-s
 
 Every task should be testable and add your constants in the constants.py, test your code before pushing then. I have already added the preliminary codes. Thank you in advance. If you have suggestions, post in the slack chat. 
 
 And it should respect the deadline, but inform the team members if you can't reach on time so that the others can help you to catch up. Thank you.
 
-+-- Brother Yves' responsibility:
-        1- Design the image of the player
-        2- Allow the player to move right, left, up and down
-        3- Position the player at the bottom of the screen
++-- Brother Yves' responsibility: <br> 
+        1- Design the image of the player <br> 
+        2- Allow the player to move right, left, up and down <br> 
+        3- Position the player at the bottom of the screen <br> 
 
-+-- Brother Hectapia's responsibility:
-        1- Build all the necessary banners such as the three lives of the player,
-        the Game over banner, the Win banner and the banner while the player is waiting to start.
-        2- Implement all the sounds in the appropriate time (Game over sound, starting sound,playing Sound)
-        3- Add the space keyboard input to start the game.
++-- Brother Hectapia's responsibility: <br> 
+        1- Build all the necessary banners such as the three lives of the player, <br> 
+        the Game over banner, the Win banner and the banner while the player is waiting to start. <br> 
+        2- Implement all the sounds in the appropriate time (Game over sound, starting sound,playing Sound) <br> 
+        3- Add the space keyboard input to start the game. <br> 
 
-+-- Brother Nas's responsibilities:
-        1- Design the image of the obstacles
-        2- Appoint an automatic velosity for the obstacles, an aleatory of obstacles that move right, then after left.
-        3- When the player and the obstacles touch each other, Then Game over
++-- Brother Nas's responsibilities: <br> 
+        1- Design the image of the obstacles <br> 
+        2- Appoint an automatic velosity for the obstacles, an aleatory of obstacles that move right, then after left. <br> 
+        3- When the player and the obstacles touch each other, Then Game over <br> 
 
 ## Getting Started
    
