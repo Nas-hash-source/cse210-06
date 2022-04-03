@@ -1,5 +1,5 @@
 # Frog crossy River
-This is a game about a frog who wants to cross the river, but the frog cannot touch the river but it only can go through the woods in order to reach its destination.
+Try to cross the obstacles.
 
 # Instructions:
 NB: our tasks should be due this wednesday, but at least this Saturday
@@ -33,7 +33,7 @@ python3 -m pip install raylib
    
 After you've installed the required libraries, open a terminal and browse to the project's root folder. Start the program by running the following command.
    
-python greed.py
+python FCR.py
    
 You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the 
 project folder. Select the main module inside the hunter folder and click the "run" icon.
